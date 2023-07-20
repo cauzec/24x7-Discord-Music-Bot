@@ -1,4 +1,4 @@
-[![Discord-24x7-Radio-Bot](https://github-readme-stats.vercel.app/api/pin/?username=cauzec&repo=Discord-24x7-Radio-Bot&theme=dark)](https://github.com/cauzec/Discord-24x7-Radio-Bot)<br/>
+[![Discord-24x7-Radio-Bot](https://github-readme-stats.vercel.app/api/pin/?username=cauzec&repo=24x7-Discord-Music-Bot&theme=dark)](https://github.com/cauzec/Discord-24x7-Radio-Bot)<br/>
 
 [![GNU General Public License v3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?maxAge=3600, "License")](https://github.com/cauzec/Discord-24x7-Radio-Bot/blob/main/LICENSE)<br>
 
