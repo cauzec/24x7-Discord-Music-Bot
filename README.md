@@ -7,7 +7,7 @@ Host your own music streaming bot that stays in a channel forever and streams mu
 
 ## To run the usual version, click the button below:
 
-[![Run on Repl.it](https://replit.com/@RajMishra/24-7-Music-Bot#README.md)](https://replit.com/@RajMishra/24-7-Music-Bot#README.md)
+[![Run on Repl.it](https://repl.it/badge/github/RajMishra/24-7-Music-Bot)](https://replit.com/@RajMishra/24-7-Music-Bot#README.md)
 
 ## Run On [Repl.it](https://repl.it)
 
